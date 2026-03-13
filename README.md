@@ -4,12 +4,12 @@ BibGeneratorは、LaTeXの参考文献リスト（`thebibliography` 環境内の
 
 手書きによるフォーマットミスを防ぎ、論文執筆時の参考文献管理を効率化します。
 
-## 🚀 利用はこちら
+## 利用はこちら
 
-**[BibGenerator を開く](https://minoru-saito-chuo.github.io/bib-generator)**
+**[BibGenerator を開く](https://minoru-s.github.io/bib-generator)**
 (GitHub Pages)
 
-## ✨ 主な機能
+## 主な機能
 
 * **直感的な編集UI**: フォームに入力するだけで、正しいフォーマットの `\bibitem` コードをリアルタイム生成。
 * **論文 / Web サイト対応**: 文献の種類（Paper/Web）に応じた入力フィールドの切り替え。
